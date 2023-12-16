@@ -1,0 +1,9 @@
+object DMModelSQLite3: TDMModelSQLite3
+  OnCreate = DataModuleCreate
+  OnDestroy = DataModuleDestroy
+  OldCreateOrder = False
+  Height = 538
+  HorizontalOffset = 432
+  VerticalOffset = 224
+  Width = 998
+end

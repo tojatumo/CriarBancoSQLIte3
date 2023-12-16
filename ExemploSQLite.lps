@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="ExemploSQLite.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="21"/>
+      </Unit>
+      <Unit>
+        <Filename Value="view_sqlite3.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="Form1"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <TopLine Value="14"/>
+        <CursorPos X="39" Y="39"/>
+        <UsageCount Value="21"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="model_sqlite.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="DMModelSQLite3"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="DataModule"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="117"/>
+        <CursorPos X="42" Y="158"/>
+        <FoldState Value=" T3jd0R^"/>
+        <UsageCount Value="21"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\lazarus\fpc\3.2.2\source\packages\fcl-db\src\base\db.pas"/>
+        <UnitName Value="DB"/>
+        <EditorIndex Value="2"/>
+        <TopLine Value="78"/>
+        <CursorPos X="13" Y="106"/>
+        <UsageCount Value="11"/>
+        <Loaded Value="True"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="29">
+      <Position>
+        <Filename Value="model_sqlite.pas"/>
+        <Caret Line="54" Column="17" TopLine="26"/>
+      </Position>
+      <Position>
+        <Filename Value="model_sqlite.pas"/>
+        <Caret Line="55" Column="38" TopLine="37"/>
+      </Position>
+      <Position>
+        <Filename Value="model_sqlite.pas"/>
+        <Caret Line="175" Column="57" TopLine="149"/>
+      </Position>
+      <Position>
+        <Filename Value="model_sqlite.pas"/>
+        <Caret Line="94" Column="26" TopLine="77"/>
+      </Position>
+      <Position>
+        <Filename Value="model_sqlite.pas"/>
+        <Caret Line="96" Column="52" TopLine="78"/>
+      </Position>
+      <Position>
+        <Filename Value="model_sqlite.pas"/>
+        <Caret Line="118" Column="74" TopLine="102"/>
+      </Position>
+      <Position>
+        <Filename Value="model_sqlite.pas"/>
+        <Caret Line="121" Column="9" TopLine="101"/>
+      </Position>
+      <Position>
+        <Filename Value="model_sqlite.pas"/>
+        <Caret Line="146" Column="38" TopLine="138"/>
+      </Position>
+      <Position>
+        <Filename Value="model_sqlite.pas"/>
+      </Position>
+      <Position>
+        <Filename Value="model_sqlite.pas"/>
+        <Caret Line="53" Column="27" TopLine="28"/>
+      </Position>
+      <Position>
+        <Filename Value="model_sqlite.pas"/>
+        <Caret Line="177" Column="38" TopLine="165"/>
+      </Position>
+      <Position>
+        <Filename Value="model_sqlite.pas"/>
+        <Caret Line="115" Column="18" TopLine="106"/>
+      </Position>
+      <Position>
+        <Filename Value="model_sqlite.pas"/>
+        <Caret Line="150" Column="27" TopLine="112"/>
+      </Position>
+      <Position>
+        <Filename Value="model_sqlite.pas"/>
+      </Position>
+      <Position>
+        <Filename Value="model_sqlite.pas"/>
+        <Caret Line="18" Column="16"/>
+      </Position>
+      <Position>
+        <Filename Value="model_sqlite.pas"/>
+        <Caret Line="160" Column="51" TopLine="121"/>
+      </Position>
+      <Position>
+        <Filename Value="model_sqlite.pas"/>
+        <Caret Line="49" Column="14" TopLine="36"/>
+      </Position>
+      <Position>
+        <Filename Value="model_sqlite.pas"/>
+        <Caret Line="91" TopLine="84"/>
+      </Position>
+      <Position>
+        <Filename Value="model_sqlite.pas"/>
+        <Caret Line="53" Column="15" TopLine="32"/>
+      </Position>
+      <Position>
+        <Filename Value="model_sqlite.pas"/>
+        <Caret Line="158" Column="16" TopLine="117"/>
+      </Position>
+      <Position>
+        <Filename Value="model_sqlite.pas"/>
+        <Caret Line="51" Column="23" TopLine="28"/>
+      </Position>
+      <Position>
+        <Filename Value="model_sqlite.pas"/>
+        <Caret Line="190" TopLine="164"/>
+      </Position>
+      <Position>
+        <Filename Value="model_sqlite.pas"/>
+        <Caret Line="172" Column="28" TopLine="164"/>
+      </Position>
+      <Position>
+        <Filename Value="model_sqlite.pas"/>
+      </Position>
+      <Position>
+        <Filename Value="model_sqlite.pas"/>
+        <Caret Line="35" Column="14" TopLine="7"/>
+      </Position>
+      <Position>
+        <Filename Value="model_sqlite.pas"/>
+        <Caret Line="78" Column="12" TopLine="50"/>
+      </Position>
+      <Position>
+        <Filename Value="model_sqlite.pas"/>
+        <Caret Line="84" Column="23" TopLine="56"/>
+      </Position>
+      <Position>
+        <Filename Value="model_sqlite.pas"/>
+        <Caret Line="163" Column="86" TopLine="116"/>
+      </Position>
+      <Position>
+        <Filename Value="model_sqlite.pas"/>
+        <Caret Line="160" Column="42" TopLine="119"/>
+      </Position>
+      <Position>
+        <Filename Value="model_sqlite.pas"/>
+        <Caret Line="159" Column="42" TopLine="118"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>
